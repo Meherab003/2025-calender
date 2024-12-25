@@ -43,7 +43,13 @@ const Month = (month) => {
             <span
               className={`${
                 day.international_holidays.length !== 0 &&
-                "font-title text-lg border-2 border-blue-900 text-white p-1 font-bold"
+                "font-title text-lg text-blue-700 font-bold"
+              }${
+                day?.national_holidays &&
+                "font-title text-lg text-green-700 font-bold"
+              } ${
+                day?.Eid &&
+                "font-title text-lg border-2 border-yellow-300 rounded-tr-xl rounded-tl-xl text-white p-1 font-bold"
               }`}
             >
               {day.day}

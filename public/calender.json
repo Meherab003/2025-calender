@@ -85,7 +85,8 @@
       {
         "day": 14,
         "day_name": "Friday",
-        "international_holidays": ["Valentine's Day"]
+        "international_holidays": ["Valentine's Day"],
+        "national_holidays": ["Shab e-Barat"]
       },
       { "day": 15, "day_name": "Saturday", "international_holidays": [] },
       { "day": 16, "day_name": "Sunday", "international_holidays": [] },
@@ -93,7 +94,11 @@
       { "day": 18, "day_name": "Tuesday", "international_holidays": [] },
       { "day": 19, "day_name": "Wednesday", "international_holidays": [] },
       { "day": 20, "day_name": "Thursday", "international_holidays": [] },
-      { "day": 21, "day_name": "Friday", "international_holidays": [] },
+      {
+        "day": 21,
+        "day_name": "Friday",
+        "international_holidays": ["International Mother Language Day"]
+      },
       { "day": 22, "day_name": "Saturday", "international_holidays": [] },
       { "day": 23, "day_name": "Sunday", "international_holidays": [] },
       { "day": 24, "day_name": "Monday", "international_holidays": [] },
@@ -142,12 +147,22 @@
       { "day": 23, "day_name": "Sunday", "international_holidays": [] },
       { "day": 24, "day_name": "Monday", "international_holidays": [] },
       { "day": 25, "day_name": "Tuesday", "international_holidays": [] },
-      { "day": 26, "day_name": "Wednesday", "international_holidays": [] },
-      { "day": 27, "day_name": "Thursday", "international_holidays": [] },
+      {
+        "day": 26,
+        "day_name": "Wednesday",
+        "international_holidays": [],
+        "national_holidays": ["Independence Day"]
+      },
+      {
+        "day": 27,
+        "day_name": "Thursday",
+        "international_holidays": [],
+        "national_holidays": ["Laylat al-Qadr"]
+      },
       { "day": 28, "day_name": "Friday", "international_holidays": [] },
       { "day": 29, "day_name": "Saturday", "international_holidays": [] },
       { "day": 30, "day_name": "Sunday", "international_holidays": [] },
-      { "day": 31, "day_name": "Monday", "international_holidays": [] }
+      { "day": 31, "day_name": "Monday", "international_holidays": [], "Eid": "Eid al-fitr" }
     ]
   },
   {
@@ -169,7 +184,12 @@
       { "day": 11, "day_name": "Friday", "international_holidays": [] },
       { "day": 12, "day_name": "Saturday", "international_holidays": [] },
       { "day": 13, "day_name": "Sunday", "international_holidays": [] },
-      { "day": 14, "day_name": "Monday", "international_holidays": [] },
+      {
+        "day": 14,
+        "day_name": "Monday",
+        "international_holidays": [],
+        "national_holidays": ["Bengali New Year (Pahela Baishakh)"]
+      },
       { "day": 15, "day_name": "Tuesday", "international_holidays": [] },
       { "day": 16, "day_name": "Wednesday", "international_holidays": [] },
       { "day": 17, "day_name": "Thursday", "international_holidays": [] },
@@ -196,10 +216,18 @@
       { "day": "", "day_name": "", "international_holidays": [] },
       { "day": "", "day_name": "", "international_holidays": [] },
       { "day": "", "day_name": "", "international_holidays": [] },
-      { "day": 1, "day_name": "Thursday", "international_holidays": [] },
+      {
+        "day": 1,
+        "day_name": "Thursday",
+        "international_holidays": ["May Day"]
+      },
       { "day": 2, "day_name": "Friday", "international_holidays": [] },
       { "day": 3, "day_name": "Saturday", "international_holidays": [] },
-      { "day": 4, "day_name": "Sunday", "international_holidays": [] },
+      {
+        "day": 4,
+        "day_name": "Sunday",
+        "international_holidays": ["Star Wars Day"]
+      },
       { "day": 5, "day_name": "Monday", "international_holidays": [] },
       { "day": 6, "day_name": "Tuesday", "international_holidays": [] },
       { "day": 7, "day_name": "Wednesday", "international_holidays": [] },
@@ -209,7 +237,12 @@
       { "day": 11, "day_name": "Sunday", "international_holidays": [] },
       { "day": 12, "day_name": "Monday", "international_holidays": [] },
       { "day": 13, "day_name": "Tuesday", "international_holidays": [] },
-      { "day": 14, "day_name": "Wednesday", "international_holidays": [] },
+      {
+        "day": 14,
+        "day_name": "Wednesday",
+        "international_holidays": [],
+        "national_holidays": ["Buddha Purnima"]
+      },
       { "day": 15, "day_name": "Thursday", "international_holidays": [] },
       { "day": 16, "day_name": "Friday", "international_holidays": [] },
       { "day": 17, "day_name": "Saturday", "international_holidays": [] },
@@ -239,7 +272,7 @@
       { "day": 4, "day_name": "Wednesday", "international_holidays": [] },
       { "day": 5, "day_name": "Thursday", "international_holidays": [] },
       { "day": 6, "day_name": "Friday", "international_holidays": [] },
-      { "day": 7, "day_name": "Saturday", "international_holidays": [] },
+      { "day": 7, "day_name": "Saturday", "international_holidays": [], "Eid": "Eid al-Adha" },
       { "day": 8, "day_name": "Sunday", "international_holidays": [] },
       { "day": 9, "day_name": "Monday", "international_holidays": [] },
       { "day": 10, "day_name": "Tuesday", "international_holidays": [] },
@@ -279,7 +312,12 @@
         "day_name": "Friday",
         "international_holidays": ["Independence Day"]
       },
-      { "day": 5, "day_name": "Saturday", "international_holidays": [] },
+      {
+        "day": 5,
+        "day_name": "Saturday",
+        "international_holidays": [],
+        "national_holidays": ["Uprising of 36th July"]
+      },
       { "day": 6, "day_name": "Sunday", "international_holidays": [] },
       { "day": 7, "day_name": "Monday", "international_holidays": [] },
       { "day": 8, "day_name": "Tuesday", "international_holidays": [] },
@@ -341,7 +379,12 @@
       { "day": 22, "day_name": "Friday", "international_holidays": [] },
       { "day": 23, "day_name": "Saturday", "international_holidays": [] },
       { "day": 24, "day_name": "Sunday", "international_holidays": [] },
-      { "day": 25, "day_name": "Monday", "international_holidays": [] },
+      {
+        "day": 25,
+        "day_name": "Monday",
+        "international_holidays": [],
+        "national_holidays": ["Ashura (10th of Muharram)"]
+      },
       { "day": 26, "day_name": "Tuesday", "international_holidays": [] },
       { "day": 27, "day_name": "Wednesday", "international_holidays": [] },
       { "day": 28, "day_name": "Thursday", "international_holidays": [] },
@@ -370,7 +413,12 @@
       { "day": 13, "day_name": "Saturday", "international_holidays": [] },
       { "day": 14, "day_name": "Sunday", "international_holidays": [] },
       { "day": 15, "day_name": "Monday", "international_holidays": [] },
-      { "day": 16, "day_name": "Tuesday", "international_holidays": [] },
+      {
+        "day": 16,
+        "day_name": "Tuesday",
+        "international_holidays": [],
+        "national_holidays": ["Janmashtami"]
+      },
       { "day": 17, "day_name": "Wednesday", "international_holidays": [] },
       { "day": 18, "day_name": "Thursday", "international_holidays": [] },
       { "day": 19, "day_name": "Friday", "international_holidays": [] },
@@ -394,8 +442,18 @@
       { "day": "", "day_name": "", "international_holidays": [] },
       { "day": "", "day_name": "", "international_holidays": [] },
       { "day": "", "day_name": "", "international_holidays": [] },
-      { "day": 1, "day_name": "Wednesday", "international_holidays": [] },
-      { "day": 2, "day_name": "Thursday", "international_holidays": [] },
+      {
+        "day": 1,
+        "day_name": "Wednesday",
+        "international_holidays": [],
+        "national_holidays": ["Durga Puja (Bijaya Dashami)"]
+      },
+      {
+        "day": 2,
+        "day_name": "Thursday",
+        "international_holidays": [],
+        "national_holidays": ["Durga Puja (Bijaya Dashami)"]
+      },
       { "day": 3, "day_name": "Friday", "international_holidays": [] },
       { "day": 4, "day_name": "Saturday", "international_holidays": [] },
       { "day": 5, "day_name": "Sunday", "international_holidays": [] },
@@ -489,7 +547,12 @@
       { "day": 13, "day_name": "Saturday", "international_holidays": [] },
       { "day": 14, "day_name": "Sunday", "international_holidays": [] },
       { "day": 15, "day_name": "Monday", "international_holidays": [] },
-      { "day": 16, "day_name": "Tuesday", "international_holidays": [] },
+      {
+        "day": 16,
+        "day_name": "Tuesday",
+        "international_holidays": [],
+        "national_holidays": ["Victory Day"]
+      },
       { "day": 17, "day_name": "Wednesday", "international_holidays": [] },
       { "day": 18, "day_name": "Thursday", "international_holidays": [] },
       { "day": 19, "day_name": "Friday", "international_holidays": [] },
